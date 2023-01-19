@@ -31,7 +31,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 <details>
     <summary> <b>🔗 Deploy Gojo Userbot</b></summary></br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/konsolxnxx/PocongUserbot"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Cloder07/Gojo-Userbot"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
